@@ -1,7 +1,7 @@
 # Expense Management System
 Welcome to the Expense Management System project! This dynamic web application is designed to streamline expense tracking and management, offering a comprehensive solution for individuals and organizations alike. With a user-friendly interface and robust functionality, it simplifies expense recording, categorization, and analysis.
 
-Features
+# Features
 User Management
 Admin Section: The system includes an admin section where administrators can manage users efficiently. Admins have the authority to add, delete, and modify user accounts.
 User Registration: New users can register their accounts, providing necessary details such as name, email, and password.
@@ -10,11 +10,11 @@ Expense Tracking
 Expense Entry: Users can log their expenses easily, specifying details such as amount, date, category, and description.
 Expense Categorization: Expenses can be categorized into various predefined categories for better organization and analysis.
 Expense Modification: Users can edit or delete previously entered expenses as needed, providing flexibility and accuracy in expense management.
-Data Management
+# Data Management
 CRUD Operations: The system supports Create, Read, Update, and Delete operations for managing expenses and user accounts, facilitating seamless data manipulation.
 Database Management System (DBMS): MySQL is used as the backend database management system, ensuring efficient data storage and retrieval.
 Data Security: User passwords are securely stored using hashing techniques, enhancing system security and safeguarding sensitive information.
-Technology Stack
+# Technology Stack
 The Expense Management System is built using the following technology stack:
 
 HTML: Provides the structure for the web pages, ensuring proper layout and organization.
